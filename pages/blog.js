@@ -1,5 +1,5 @@
 import posts from "../posts.json";
-import Link from "next/Link";
+import Link from "next/link";
 
 export default function Blog() {
   return (
