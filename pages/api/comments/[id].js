@@ -1,4 +1,4 @@
-import comments from "../../comments.json";
+import comments from "../../../comments.json";
 
 export default function handler(req, res) {
   switch (req.method) {
